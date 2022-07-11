@@ -1,4 +1,4 @@
-#Copied from Spring State Machine
+##Copied from Spring State Machine
 
 This a port of the ordershipping sample project ported to a Maven build.
 
