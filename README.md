@@ -2,6 +2,8 @@
 
 This a port of the ordershipping sample project ported to a Maven build.
 
+The parent project Gradle is quite large and has many sub-projects so porting a child project to a Maven build was a bit of trial and error.
+
 The parent project is here https://github.com/spring-projects/spring-statemachine
 
 The sample project is here https://github.com/spring-projects/spring-statemachine/tree/main/spring-statemachine-samples/ordershipping
@@ -14,3 +16,6 @@ Some minor additions were made:
     added some webjars
     added Bootstrap CSS 
     added jQuery for testing REST API
+
+The UML project is somewhat embedded into the resources. It can be opened in Papyrus, an Eclipse based UML editor.
+Here is a gist illustrating roughly how to import a UML project into Papyrus https://gist.github.com/gregbown/cdab7f73511e3ba8c1325a79d6218653
