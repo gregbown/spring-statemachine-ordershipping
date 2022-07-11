@@ -1,6 +1,6 @@
-## Copied from Spring State Machine
+## The Order Shipping sample project copied from Spring State Machine
 
-This a port of the ordershipping sample project ported to a Maven build.
+This an example of porting a Spring State Machine sample project into a Maven build.
 
 The parent project Gradle is quite large and has many sub-projects so porting a child project to a Maven build was a bit of trial and error.
 
