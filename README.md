@@ -1,10 +1,12 @@
-##Copied from Spring State Machine
+## Copied from Spring State Machine
 
 This a port of the ordershipping sample project ported to a Maven build.
 
 The parent project is here https://github.com/spring-projects/spring-statemachine
 
 The sample project is here https://github.com/spring-projects/spring-statemachine/tree/main/spring-statemachine-samples/ordershipping
+
+The ordershipping project uses a UML file to configure its state machine
 
 Some minor additions were made:
 
