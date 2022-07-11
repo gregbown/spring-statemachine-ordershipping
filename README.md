@@ -1,6 +1,6 @@
 ## The Order Shipping sample project copied from Spring State Machine
 
-This an example of porting a Spring State Machine sample project into a Maven build.
+This an example of porting a Spring State Machine sample project into a Maven build. Assumes Maven is installed locally.
 
 The parent project Gradle is quite large and has many sub-projects so porting a child project to a Maven build was a bit of trial and error.
 
